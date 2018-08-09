@@ -4,6 +4,6 @@
 
 Ejectutar este comando
 
-...
-nmp install
-...
+```
+npm install
+```
